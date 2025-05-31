@@ -11,7 +11,7 @@ Desenvolver um sistema de monitoramento inteligente utilizando sensores e automa
 - Microcontrolador: ESP32
 - Linguagem de programação: C++ (Arduino IDE)
 - Comunicação: Wi-Fi e LoRa
-- Sensores: Umidade do solo, temperatura, pH, condutividade elétrica, luminosidade (BH1750), vazão, sensor de chuva (planejado)
+- Sensores: Umidade do solo, temperatura, pH, condutividade elétrica, luminosidade, vazão, sensor de chuva (planejado)
 - Dashboard: Web (protótipo em Figma)
 - Plataforma de simulação: Wokwi
 
